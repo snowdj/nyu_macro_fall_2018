@@ -27,8 +27,24 @@ pull changes periodically.  If not then just follow the instructions above.)
 *Recursive Methods in Dynamic Economics* by Nancy Stokey and Robert E. Lucas, Harvard University Press, 1989
 
 
-### Lecture slides and other material
+### Assignments
 
 See NYU Classes
 
 
+### Lecture slides
+
+* [Lecture 1](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture1.pdf)
+* [Lecture 2](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture2.pdf)
+* [Lecture 3](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture3.pdf)
+* [Lecture 4](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture4.pdf)
+* [Lecture 5](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture5.pdf)
+* [Lecture 6](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture6.pdf)
+* [Lecture 7](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture7.pdf)
+* [Lecture 8](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture8.pdf)
+* [Lecture 9](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture9.pdf)
+* [Lecture 10](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture10.pdf)
+* Lecture 11 given by TJS
+* [Lecture 12](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture12.pdf)
+* [Lecture 13](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture13.pdf)
+* [Lecture 14](https://github.com/jstac/nyu_macro_fall_2018/raw/master/lectures/lecture14.pdf) -- not for assessment
